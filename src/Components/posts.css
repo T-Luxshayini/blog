@@ -1,7 +1,7 @@
 /* Posts.css */
 .recent-posts {
     position: fixed;
-    top: 200px; /* Adjust as necessary */
+    top: 210px; /* Adjust as necessary */
     right: 20px; /* Adjust as necessary */
     background-color: #f4f4f9;
     padding: 1rem;
