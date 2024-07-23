@@ -31,7 +31,7 @@
   
   },
   
-  "homepage": "https://Thevapalan Luxshayini.github.io/blog.git",
+  "homepage": "https://t-luxshayini.github.io/blog",
   
   "scripts": {
   
@@ -43,6 +43,10 @@
   
     
   "deploy": "gh-pages -d build",
+
+  
+
+  
   
     
   "build": "react-scripts build",
