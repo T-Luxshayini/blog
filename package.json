@@ -12,15 +12,13 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://t-luxshayini.github.io/blog",
+  "homepage": "https://github.com/T-Luxshayini/blog.git",
 
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "analyze": "react-scripts analyze",
-    "format": "prettier --write src/**/*.{js,jsx,css}",
-    "precommit": "yarn format",
+    
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
